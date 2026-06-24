@@ -20,6 +20,8 @@ body{
 .cabecalho2{
     background-image: url(./img/One_Piece_Anime_Logo.webp);
     height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .cabecalho-img{
     width: 50px;
