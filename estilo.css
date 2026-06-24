@@ -16,3 +16,8 @@ body{
 .cabecalho h1{
     margin-left: 30%;
 }
+
+.cabecalho2{
+    background-image: url(./img/One_Piece_Anime_Logo.webp);
+    height: 300px;
+}
