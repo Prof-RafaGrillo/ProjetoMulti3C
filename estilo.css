@@ -38,3 +38,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.conteudo01{
+    display: flex;
+}
+
+.conteudo01-img{
+    width: 40%;
+}
